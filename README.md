@@ -6,7 +6,7 @@ This is the appendix for the dafni report submitted on the 31st of March 2023.
 
 <b>*dafni-activation-table.xlsx :</b> extensions of Table 1 and Table 2 in the report including all statistically significant activation clusters.
 
-<b>*generateGLM.m :</b> generates GLM for timeseries (figure 1a)
+<b>*generateGLM.m :</b> generates GLM for timeseries (figure 4a)
 
 <b>*generateTimeseries.m :</b> code to create time course plots for figure 4.
 
